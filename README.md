@@ -1,24 +1,7 @@
-# README
+# パーフェクト Ruby on Rails 第 3 章-1
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+テストの種類と実行
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- minitest
+- テスト実行前と後の処理(setup and teardown)
+- 並列テスト(Rails6.0 から)
